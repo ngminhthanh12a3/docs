@@ -6,15 +6,4 @@
 Welcome to docs's documentation!
 ================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-   new_page.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
