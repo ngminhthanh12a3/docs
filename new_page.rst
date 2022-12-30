@@ -6,4 +6,7 @@
 New Page
 ========
 
+.. autosummary::
+   :toctree: generated
+
 
